@@ -1,0 +1,138 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Intersoft_ProjectOnline_QC_2017.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PROD_DBConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=IMSDEV2014SQL;Initial Catalog=PSO_Intersoft;User Id=sqltimesaldobruker;Password=Intersoft2016</Value>
+    </Setting>
+    <Setting Name="DEV_DBConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source =imssqlreporting; Initial Catalog = PSO_Intersoft; Integrated Security = True</Value>
+    </Setting>
+    <Setting Name="TEST_DBConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UseTimesaldo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PTR_AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PTR_AppEvent" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PRR_AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PRR_AppEvent" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEV_QC_Reportname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Count Rows short - Intersoft.xlsx</Value>
+    </Setting>
+    <Setting Name="TEST_QC_Reportname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Count Rows short - Intersoft.xlsx</Value>
+    </Setting>
+    <Setting Name="PROD_PO_Username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PROD_PO_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PROD_PO_URL_PWA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TEST_PO_Username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TEST_PO_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TEST_PO_PWA_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEV_PO_Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEV_PO_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEV_PO_PWA_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="POD_AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="POD_AppEvent" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PROD_QC_ReportPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\richard.lie\Desktop\</Value>
+    </Setting>
+    <Setting Name="Enviroment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">P</Value>
+    </Setting>
+    <Setting Name="TEST_QC_ReportPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEV_QC_ReportPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PROD_QC_Reportname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">POQualityCheck2017.xlsx</Value>
+    </Setting>
+    <Setting Name="UseReportRefresh" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="QC_SITE_1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Intersoft Production</Value>
+    </Setting>
+    <Setting Name="QC_SITE_SEQ_1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="QC_SITE_SEQ_2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="QC_SITE_3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Intersoft Test 2</Value>
+    </Setting>
+    <Setting Name="QC_SITE_DBC_3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=IMSDEV2014SQL;Initial Catalog=PSO_Intersoft;User Id=sqltimesaldobruker;Password=Intersoft2016</Value>
+    </Setting>
+    <Setting Name="QC_SITE_SEQ_3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="QC_SITE_4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Intersoft Test 4</Value>
+    </Setting>
+    <Setting Name="QC_SITE_DBC_4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=IMSDEV2014SQL;Initial Catalog=PSO_Intersoft;User Id=sqltimesaldobruker;Password=Intersoft2016</Value>
+    </Setting>
+    <Setting Name="QC_SITE_SEQ_4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="QC_SITE_5" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Intersoft Test 5</Value>
+    </Setting>
+    <Setting Name="QC_SITE_DBC_5" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=IMSDEV2014SQL;Initial Catalog=PSO_Intersoft;User Id=sqltimesaldobruker;Password=Intersoft2016</Value>
+    </Setting>
+    <Setting Name="QC_SITE_SEQ_5" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="QC_TEST_TYPE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="QC_NUMBERS_OF_SITE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="QC_SITE_DBC_1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=IMSSQLREPORTING;Initial Catalog=PSO_Intersoft_History;Integrated Security=SSPI</Value>
+    </Setting>
+    <Setting Name="QC_SITE_2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Intersoft Demo </Value>
+    </Setting>
+    <Setting Name="QC_SITE_DBC_2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=IMSSQLREPORTING;Initial Catalog=PSO_Intersoft_History_Demo;Integrated Security=SSPI</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
